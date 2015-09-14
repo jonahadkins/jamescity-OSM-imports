@@ -11,7 +11,7 @@ James City County Building data was imported by Census Block Group chunks during
 
 Imports were done through the dedicated user account [jonahadkins_jamescity_imports](https://www.openstreetmap.org/user/jonahadkins_jamescity_imports/history#map=11/37.3213/-76.7484&layers=D)  
 
-![](https://raw.githubusercontent.com/jonahadkins/yorkcounty-OSM-imports/master/yc_post_import.png)
+![](https://raw.githubusercontent.com/jonahadkins/jamescity-OSM-imports/master/jcc_post_import.png)
 
 * 30,155 building footprints imported  
    * 21,483 houses  
