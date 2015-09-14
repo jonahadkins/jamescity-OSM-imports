@@ -7,15 +7,15 @@ James City County, Virginia GIS department has provided building footprints and 
 
 ### Import Stats  
 
-York County Building data was imported by Census Block Group chunks during the week of September 7th, following OSM import guidelines and community feedback.
+James City County Building data was imported by Census Block Group chunks during the weekend of September 11th, following OSM import guidelines and community feedback.
 
-Imports were done through the dedicated user account [jonahadkins_yorkcounty_import](https://www.openstreetmap.org/user/jonahadkins_yorkcounty_import/history#map=11/37.2265/-76.5706&layers=D)  
+Imports were done through the dedicated user account [jonahadkins_jamescity_imports](https://www.openstreetmap.org/user/jonahadkins_jamescity_imports/history#map=11/37.3213/-76.7484&layers=D)  
 
 ![](https://raw.githubusercontent.com/jonahadkins/yorkcounty-OSM-imports/master/yc_post_import.png)
 
-* 25,348 building footprints imported  
-   * 19,246 houses  
-   * 1,131 commercial/retail structures  
-* 17,486 addresses attached to buildings (68% of all structures imported have addresses!)  
-* 817 Business Names (72& of all commercial/retail structures!)  
-* 189 Amenities Tagged  
+* 30,155 building footprints imported  
+   * 21,483 houses  
+   * 1,444 commercial/retail structures  
+* 25,149 addresses attached to buildings (83% of all structures imported have addresses!)  
+* 141 Business Names (9% of all commercial/retail structures :()  
+* 79 Amenities Tagged  
